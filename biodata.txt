@@ -1,4 +1,0 @@
-Name : DevOps Engineer
-Phone : 12344
-Email:Devops@mycompany.com
-Company : NRMA
